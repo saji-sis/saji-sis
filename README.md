@@ -3,7 +3,7 @@
 ### 🚀 Frontend Developer | React.js | Next.js | TypeScript
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&background=111111&lines=Frontend+Developer;React.js+%26+Next.js+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&text=Sajad%20Sistani&background=111111&lines=Frontend+Developer;React.js+%26+Next.js+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
 <p align="center">
