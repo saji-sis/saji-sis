@@ -2,13 +2,13 @@
 
 ### 🚀 Frontend Developer | React.js | Next.js | TypeScript
 
-\<p align="center">
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+%26+Next.js+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=2F80ED\&center=true\&vCenter=true\&width=600\&lines=Frontend+Developer;React.js+%26+Next.js+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality)" alt="Typing SVG" />
-\</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+%26+Next.js+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://capsule-render.vercel.app/api?type=wave&color=0:667eea,100:764ba2&height=120&section=header](https://capsule-render.vercel.app/api?type=wave\&color=0:667eea,100:764ba2\&height=120\&section=header)" width="100%" />
-\</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=header" width="100%" />
+</p>
 
 ## 👨‍💻 About Me
 
@@ -20,7 +20,7 @@ I have hands-on experience working on real-world projects, including business ma
 
 - 💻 Specialized in React.js, Next.js & TypeScript
 - 🎨 Passionate about UI/UX and responsive web design
-- ⚡ Experienced in building scalable and reusable components
+- ⚡ Experienced in building reusable components
 - 🔗 Working with REST APIs and backend integrations
 - 🧩 Interested in clean architecture and performance optimization
 - 🚀 Always learning and exploring modern web technologies
@@ -31,29 +31,33 @@ I have hands-on experience working on real-world projects, including business ma
 
 ### 💻 Languages
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,js,ts](https://skillicons.dev/icons?i=html,css,js,ts)" />
-\</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
 
 ### ⚛️ Frontend Development
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap)" />
-\</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux" />
+</p>
 
 ### 🎨 UI Libraries & Styling
 
-- Tailwind CSS
-- Bootstrap
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui" />
+</p>
+
 - Shadcn UI
 - Material UI (MUI)
+- Tailwind CSS
+- Bootstrap
 - Responsive Web Design
 
 ### 🔧 Tools & Technologies
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,npm,vscode,figma](https://skillicons.dev/icons?i=git,github,npm,vscode,figma)" />
-\</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,figma" />
+</p>
 
 - Git & GitHub
 - NPM
@@ -117,9 +121,14 @@ A currency exchange management application.
 
 ## 📊 GitHub Statistics
 
-\<p align="center">   \<img height="170" src="[https://github-readme-stats.vercel.app/api?username=saji-sis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=saji-sis\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true)" />   \<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=saji-sis&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=saji-sis\&layout=compact\&theme=tokyonight\&hide_border=true)" /> \</p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saji-sis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Sajad's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saji-sis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=saji-sis&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=saji-sis\&theme=tokyonight\&hide_border=true)" /> \</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saji-sis&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -136,14 +145,20 @@ A currency exchange management application.
 
 ## 🤝 Let's Connect
 
-I'm always interested in learning, collaborating, and working on exciting projects.
-
-\<p align="center">   \<a href="[https://github.com/saji-sis](https://github.com/saji-sis)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \</a> \</p>
+<p align="center">
+  <a href="https://github.com/saji-sis">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-\<p align="center">
-&#x20; \<b>⭐ Thanks for visiting my profile!\</b>
-&#x20; \<br />
-&#x20; \<i>"Great things are built one line of code at a time."\</i>
-\</p>
+<p align="center">
+  <b>⭐ Thanks for visiting my profile!</b>
+  <br />
+  <i>"Great things are built one line of code at a time."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%" />
+</p>
