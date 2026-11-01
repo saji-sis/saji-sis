@@ -107,6 +107,7 @@
 <br/>
 
 <h3 align="center">🐍 Snake Contribution Grid</h3>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saji-sis/saji-sis/output/github-contribution-grid-snake-dark.svg">
@@ -114,8 +115,6 @@
     <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/saji-sis/saji-sis/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
-> **نکته برای Snake:** برای فعال شدن مار، باید Action مربوط به [github-readme-snake](https://github.com/Platane/snk) را در ریپوی پروفایلت (`saji-sis/saji-sis`) اضافه کنی. اگر هنوز ندارید بگو تا راهنمایی کنم.
 
 ---
 
