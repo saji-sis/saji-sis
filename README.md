@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">  
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=header&text=Sajad%20Sistani" width="100%" />
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=header&text=Sajad%20Sistani&fontColor=FFFFFF" width="100%" />
  </p>
 
 👨‍💻 About Me
