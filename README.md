@@ -1,6 +1,6 @@
-<p align="center">  
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=header&text=Hi%20i'm%20Sajad%20Sistani&fontColor=FFFFFF" width="100%" />
- </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:991B1B,100:DC2626&height=150&section=header&text=Hi%20I'm%20Sajad%20Sistani&fontSize=48&fontAlignY=38&fontColor=FFFFFF&fontAlign=50&animation=twinkling&fontFamily=Montserrat" width="100%" />
+</p>
 
 🚀 Frontend Developer | React.js | Next.js | TypeScript
 
