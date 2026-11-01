@@ -1,13 +1,15 @@
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:991B1B,100:DC2626&height=150&text=Sajad%20Sistani&section=header" width="100%" />
+</p>
+
+
+
 ### 🚀 Frontend Developer | React.js | Next.js | TypeScript
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&background=111111&lines=Frontend+Developer;React.js+%26+Next.js+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&text=Sajad%20Sistani&section=header" width="100%" />
 </p>
 
 ## 👨‍💻 About Me
