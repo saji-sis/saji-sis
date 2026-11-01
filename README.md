@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:991B1B,100:DC2626&height=190&section=header&text=SAJAD%20SISTANI&fontSize=68&fontColor=FFFFFF&fontAlignY=40&fontWeight=900" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:991B1B,100:DC2626&height=150&section=header&text=Hello,%20I'm%20Sajad&fontSize=45&fontColor=FFFFFF&fontAlignY=40&fontWeight=400" width="100%" />
 </p>
 
 🚀 Frontend Developer | React.js | Next.js | TypeScript
