@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Sajad!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:991B1B,100:DC2626&height=260&section=header&text=Amir%20Saboor&fontSize=64&fontColor=FFFFFF&animation=twinkling&fontAlignY=38"/>
 
 ### 🚀 Frontend Developer | React.js | Next.js | TypeScript
 
