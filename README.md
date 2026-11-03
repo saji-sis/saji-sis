@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/saji-sis/saji-sis/main/assets/header.svg" alt="Sajad Sistani - Frontend Developer" width="100%"/>
+<img src="https://raw.githubusercontent.com/saji-sis/saji-sis/main/assets/header.svg" alt="Sajad Sistani" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=DC2626&center=true&vCenter=true&width=700&height=45&lines=React+%26+Next.js+Developer;TypeScript+Enthusiast;Clean+Code+%C2%B7+Modern+UI+%C2%B7+Performance;Building+things+that+scale" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=DC2626&center=true&vCenter=true&width=700&height=40&lines=React+%26+Next.js+Developer;TypeScript+Enthusiast;Clean+Code+%C2%B7+Modern+UI+%C2%B7+Performance" alt="typing"/>
 
 <br/>
 
@@ -15,84 +15,63 @@
 
 <br/>
 
-## `~/about`
+---
+
+### `~/about`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saji-sis/saji-sis/main/assets/about.svg" alt="About Sajad Sistani" width="760"/>
+  <img src="https://raw.githubusercontent.com/saji-sis/saji-sis/main/assets/about.svg" alt="About" width="720"/>
   <br/>
   <sub><i>"Great things are built one line of code at a time."</i></sub>
 </div>
 
 <br/>
 
-## `~/stack`
+---
+
+### `~/stack`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saji-sis/saji-sis/main/assets/stack.svg" alt="Tech Stack Galaxy" width="760"/>
+  <img src="https://raw.githubusercontent.com/saji-sis/saji-sis/main/assets/stack.svg" alt="Tech Stack" width="720"/>
 </div>
 
 <br/>
-
-## `~/github-insights`
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/saji-sis/saji-sis/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="760" alt="Profile Details"/>
-  
-  <br/><br/>
-  
-  <img src="https://raw.githubusercontent.com/saji-sis/saji-sis/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="165"/>
-  <img src="https://raw.githubusercontent.com/saji-sis/saji-sis/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" height="165"/>
-  
-  <br/><br/>
-  
-  <img src="https://raw.githubusercontent.com/saji-sis/saji-sis/main/profile-summary-card-output/github_dark/3-stats.svg" height="165"/>
-  <img src="https://raw.githubusercontent.com/saji-sis/saji-sis/main/profile-summary-card-output/github_dark/4-productive-time.svg" height="165"/>
-</div>
-
-<br/>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saji-sis/saji-sis/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saji-sis/saji-sis/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/saji-sis/saji-sis/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
-
-<br/>
-
-## `~/projects`
-
-### 🚛 TowingTask
-A multi-company towing and vehicle transportation management system.
-
-**Tech Stack:** React · Next.js · TypeScript · Tailwind
-
-🔗 [View Repository](https://github.com/saji-sis/TowingTask)
 
 ---
 
-### 👜 Nafis Leather
-An e-commerce platform with modern shopping experience and admin panel (Persian RTL).
+### `~/insights`
 
-**Tech Stack:** Next.js · React · JavaScript · CSS
-
-🔗 [View Repository](https://github.com/saji-sis/Nafis-Leather)
-
----
-
-### 💱 Fasihi Exchange
-Currency exchange management application with role-based access.
-
-**Tech Stack:** Next.js · React · TypeScript · Tailwind
-
-🔗 [View Repository](https://github.com/saji-sis/Fasihi-Exchange)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saji-sis/saji-sis/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="720" alt="Profile"/>
+  
+  <br/><br/>
+  
+  <img src="https://raw.githubusercontent.com/saji-sis/saji-sis/main/profile-summary-card-output/github_dark/3-stats.svg" height="155"/>
+  <img src="https://raw.githubusercontent.com/saji-sis/saji-sis/main/profile-summary-card-output/github_dark/4-productive-time.svg" height="155"/>
+  
+  <br/><br/>
+  
+  <img src="https://raw.githubusercontent.com/saji-sis/saji-sis/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="155"/>
+  <img src="https://raw.githubusercontent.com/saji-sis/saji-sis/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" height="155"/>
+</div>
 
 <br/>
 
-## `~/connect`
+---
+
+### `~/projects`
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| **[TowingTask](https://github.com/saji-sis/TowingTask)** | Multi-company towing & vehicle management system | React · Next.js · TypeScript · Tailwind |
+| **[Nafis Leather](https://github.com/saji-sis/Nafis-Leather)** | E-commerce platform with admin panel (RTL) | Next.js · React · JavaScript |
+| **[Fasihi Exchange](https://github.com/saji-sis/Fasihi-Exchange)** | Currency exchange app with role-based access | Next.js · React · TypeScript · Tailwind |
+
+<br/>
+
+---
+
+### `~/connect`
 
 <div align="center">
 
@@ -102,6 +81,6 @@ Currency exchange management application with role-based access.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7F1D1D,100:DC2626&height=110&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7F1D1D,100:DC2626&height=100&section=footer" width="100%"/>
 
 </div>
