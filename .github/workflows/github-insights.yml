@@ -1,10 +1,9 @@
-
 name: Generate GitHub Insights
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # هر روز ساعت ۳ صبح UTC
-  workflow_dispatch:       # امکان اجرای دستی
+    - cron: "0 3 * * *"      # هر روز ساعت ۳ صبح UTC
+  workflow_dispatch:          # امکان اجرای دستی
 
 permissions:
   contents: write
@@ -12,32 +11,19 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Insights SVG
+      - name: Generate profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH: output
-          THEME: github_dark
-          # اگر خواستی تم قرمزتر بشه می‌تونیم بعداً تغییر بدیم
-
-      - name: Commit and push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          # اگر پوشه output وجود نداشت بساز
-          mkdir -p output
-          
-          # فایل‌های تولید شده رو کپی کن (بسته به خروجی اکشن ممکنه اسمش فرق کنه)
-          # این اکشن معمولاً چند کارت می‌سازه، ما یکی رو به عنوان github-insights.svg نگه می‌داریم
-          if [ -f "profile-summary-card-output/github_dark/0-profile-details.svg" ]; then
-            cp profile-summary-card-output/github_dark/0-profile-details.svg output/github-insights.svg
-          fi
-          
-          git add output/
-          git commit -m "chore: update github-insights.svg" || echo "No changes"
-          git push origin HEAD:output --force
+          BRANCH_NAME: "main"          # کارت‌ها داخل شاخه main ساخته می‌شن
+          THEME: "github_dark"
+          UTC_OFFSET: "3.5"            # برای ایران
+          AUTO_PUSH: true
