@@ -36,13 +36,17 @@
 ## `~/github-insights`
 
 <div align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=saji-sis&hide_border=true&background=0D1117&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E"/>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saji-sis&theme=github_dark&utcOffset=3.5"/>
+  <img src="https://raw.githubusercontent.com/saji-sis/saji-sis/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="760" alt="Profile Details"/>
   
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=saji-sis&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&icon_color=DC2626&text_color=C9D1D9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saji-sis&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=C9D1D9" height="165"/>
+  <img src="https://raw.githubusercontent.com/saji-sis/saji-sis/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="165"/>
+  <img src="https://raw.githubusercontent.com/saji-sis/saji-sis/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" height="165"/>
+  
+  <br/><br/>
+  
+  <img src="https://raw.githubusercontent.com/saji-sis/saji-sis/main/profile-summary-card-output/github_dark/3-stats.svg" height="165"/>
+  <img src="https://raw.githubusercontent.com/saji-sis/saji-sis/main/profile-summary-card-output/github_dark/4-productive-time.svg" height="165"/>
 </div>
 
 <br/>
