@@ -47,3 +47,33 @@
     <img src="https://img.shields.io/badge/GitHub-DC2626?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
+
+---
+
+<h2 align="center">📈 GitHub Insights</h2>
+
+<div align="center">
+  <img height="170" width="400" src="https://github-stats-extended.vercel.app/api?username=saji-sis&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" width="400" src="https://streak-stats.demolab.com?user=saji-sis&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="170" width="400" src="https://github-stats-extended.vercel.app/api/top-langs/?username=saji-sis&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saji-sis&theme=tokyonight" alt="Productive time" />
+</div>
+
+<br/>
+
+<h3 align="center">🐍 Snake Contribution Grid</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saji-sis/saji-sis/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saji-sis/saji-sis/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/saji-sis/saji-sis/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
