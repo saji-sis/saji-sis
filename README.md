@@ -36,19 +36,13 @@
 ## `~/github-insights`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saji-sis/saji-sis/output/github-insights.svg" alt="GitHub Insights" width="760"/>
-</div>
-
-<div align="center">
-
-<img height="165" src="https://streak-stats.demolab.com?user=saji-sis&hide_border=true&background=0D1117&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E"/>
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saji-sis&theme=github_dark&utcOffset=3.5"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=saji-sis&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&icon_color=DC2626&text_color=C9D1D9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saji-sis&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=C9D1D9" height="165"/>
-
+  <img height="165" src="https://streak-stats.demolab.com?user=saji-sis&hide_border=true&background=0D1117&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saji-sis&theme=github_dark&utcOffset=3.5"/>
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=saji-sis&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&icon_color=DC2626&text_color=C9D1D9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saji-sis&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=C9D1D9" height="165"/>
 </div>
 
 <br/>
