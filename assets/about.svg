@@ -1,1 +1,58 @@
 
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="390" viewBox="0 0 800 390" role="img" aria-label="About Sajad Sistani">
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#161B22"/>
+      <stop offset="1" stop-color="#2A1214"/>
+    </linearGradient>
+    <style>.t{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:15px}</style>
+  </defs>
+  <rect x="1" y="1" width="798" height="388" rx="12" fill="#0D1117" stroke="#30363D"/>
+  <path d="M1 13a12 12 0 0 1 12-12h774a12 12 0 0 1 12 12v27H1z" fill="url(#bar)"/>
+  <line x1="1" y1="40" x2="799" y2="40" stroke="#30363D"/>
+  <circle cx="24" cy="21" r="6" fill="#DC2626"/>
+  <circle cx="44" cy="21" r="6" fill="#991B1B"/>
+  <circle cx="64" cy="21" r="6" fill="#7F1D1D"/>
+  <text x="400" y="26" text-anchor="middle" class="t" fill="#8B949E" style="font-size:12px">saji@frontend: ~</text>
+
+  <text x="28" y="82" opacity="0" class="t">
+    <tspan fill="#DC2626">❯</tspan> <tspan fill="#FFFFFF">whoami</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.4s" fill="freeze"/>
+  </text>
+  <text x="28" y="106" opacity="0" class="t">
+    <tspan fill="#8B949E">Sajad Sistani · Frontend Developer</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.4s" fill="freeze"/>
+  </text>
+
+  <text x="28" y="150" opacity="0" class="t">
+    <tspan fill="#DC2626">❯</tspan> <tspan fill="#FFFFFF">cat stack.txt</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.4s" fill="freeze"/>
+  </text>
+  <text x="28" y="174" opacity="0" class="t">
+    <tspan fill="#8B949E">React · Next.js · TypeScript · Tailwind · Redux</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="0.4s" fill="freeze"/>
+  </text>
+
+  <text x="28" y="218" opacity="0" class="t">
+    <tspan fill="#DC2626">❯</tspan> <tspan fill="#FFFFFF">cat principles.txt</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="2.9s" dur="0.4s" fill="freeze"/>
+  </text>
+  <text x="28" y="242" opacity="0" class="t">
+    <tspan fill="#8B949E">Clean code · Reusable components · Scalable architecture</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="3.5s" dur="0.4s" fill="freeze"/>
+  </text>
+
+  <text x="28" y="286" opacity="0" class="t">
+    <tspan fill="#DC2626">❯</tspan> <tspan fill="#FFFFFF">now --learning</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="4.2s" dur="0.4s" fill="freeze"/>
+  </text>
+  <text x="28" y="310" opacity="0" class="t">
+    <tspan fill="#8B949E">Advanced React Patterns · Performance · Modern UI/UX</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="4.8s" dur="0.4s" fill="freeze"/>
+  </text>
+
+  <text x="28" y="354" class="t"><tspan fill="#DC2626">❯</tspan></text>
+  <rect x="52" y="341" width="9" height="17" fill="#DC2626">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="5.4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
