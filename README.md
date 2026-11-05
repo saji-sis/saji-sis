@@ -1,9 +1,19 @@
 <div align="center">
-<div>
-  
-<img src="./Neon GitHub Workspace Animation.gif" alt="Sajjad Sistani — Frontend Developer" />
+<div align="center">
+
+  <img
+    src="./Neon GitHub Workspace Animation.gif"
+    width="100%"
+    alt="Sajjad Sistani — Developer Workspace"
+  />
+
+  <img
+    src="./assets/header.svg"
+    width="100%"
+    alt="Sajjad Sistani — Frontend Developer"
+  />
+
 </div>
-<img src="./assets/header.svg" width="100%" alt="Sajjad Sistani — Frontend Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=EF343F&center=true&vCenter=true&width=680&height=36&lines=React+%2F+Next.js+%2F+TypeScript;Building+useful+web+experiences;Thoughtful+UI.+Clean+code.+Real+products." alt="Developer focus" />
 
