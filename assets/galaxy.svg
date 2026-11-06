@@ -1,51 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440" role="img" aria-label="Frontend technology galaxy">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440" role="img" aria-label="Frontend technology galaxy with upright technology icons">
 <defs>
- <radialGradient id="space"><stop stop-color="#30202a"/><stop offset=".55" stop-color="#151923"/><stop offset="1" stop-color="#0d1117"/></radialGradient>
- <filter id="soft"><feGaussianBlur stdDeviation="12"/></filter>
+ <radialGradient id="space"><stop stop-color="#30202a"/><stop offset=".58" stop-color="#151923"/><stop offset="1" stop-color="#0d1117"/></radialGradient>
+ <radialGradient id="core"><stop stop-color="#54232f"/><stop offset="1" stop-color="#171c27"/></radialGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="13"/></filter>
 </defs>
 <style>
  text{font-family:Arial,Helvetica,sans-serif}
- .orbit{fill:none;stroke:#c66b78;stroke-opacity:.42;stroke-width:1.5;stroke-dasharray:4 9}
- .node{fill:#171c27;stroke:#e86b78;stroke-width:1.5}
- .label{fill:#f4e9eb;font-size:14px;font-weight:700;text-anchor:middle}
- .tiny{fill:#d6a3a9;font-size:10px;letter-spacing:2px;text-anchor:middle}
- .spin1{transform-origin:500px 185px;animation:spin 34s linear infinite}
- .spin2{transform-origin:500px 185px;animation:spin 46s linear infinite reverse}
- .spin3{transform-origin:500px 185px;animation:spin 58s linear infinite}
- @keyframes spin{to{transform:rotate(360deg)}}
- @media(prefers-reduced-motion:reduce){.spin1,.spin2,.spin3{animation:none}}
+ .orbit{fill:none;stroke:#c66b78;stroke-opacity:.35;stroke-width:1.5;stroke-dasharray:4 9}
+ .node{fill:#171c27;stroke:#e86b78;stroke-width:1.6}
+ .label{fill:#f4e9eb;font-size:10px;font-weight:700;text-anchor:middle}
+ .mark{fill:#fff1f2;font-size:19px;font-weight:800;text-anchor:middle}
+ .markSmall{fill:#fff1f2;font-size:14px;font-weight:800;text-anchor:middle}
+ .spin1{transform-origin:500px 185px;animation:orbit 34s linear infinite}
+ .spin2{transform-origin:500px 185px;animation:orbit 46s linear infinite reverse}
+ .spin3{transform-origin:500px 185px;animation:orbit 58s linear infinite}
+ .counter1{transform-box:fill-box;transform-origin:center;animation:counter 34s linear infinite}
+ .counter2{transform-box:fill-box;transform-origin:center;animation:counter 46s linear infinite reverse}
+ .counter3{transform-box:fill-box;transform-origin:center;animation:counter 58s linear infinite}
+ @keyframes orbit{to{transform:rotate(360deg)}}
+ @keyframes counter{to{transform:rotate(-360deg)}}
+ @media(prefers-reduced-motion:reduce){.spin1,.spin2,.spin3,.counter1,.counter2,.counter3{animation:none!important}}
 </style>
 <rect x="1" y="1" width="998" height="438" rx="18" fill="url(#space)" stroke="#493238"/>
 <g fill="#f7c6cc" opacity=".7">
  <circle cx="92" cy="70" r="1.5"/><circle cx="166" cy="340" r="1"/><circle cx="270" cy="55" r="1.2"/><circle cx="390" cy="385" r="1.4"/><circle cx="710" cy="48" r="1.2"/><circle cx="850" cy="95" r="1.5"/><circle cx="920" cy="330" r="1.1"/><circle cx="770" cy="390" r="1.4"/><circle cx="58" cy="240" r="1"/><circle cx="945" cy="185" r="1"/>
 </g>
-<circle cx="500" cy="185" r="88" fill="#e5232f" opacity=".13" filter="url(#soft)"/>
+<circle cx="500" cy="185" r="94" fill="#e5232f" opacity=".15" filter="url(#glow)"/>
 <ellipse class="orbit" cx="500" cy="185" rx="155" ry="58" transform="rotate(-24 500 185)"/>
 <ellipse class="orbit" cx="500" cy="185" rx="270" ry="100" transform="rotate(22 500 185)"/>
 <ellipse class="orbit" cx="500" cy="185" rx="405" ry="151" transform="rotate(-12 500 185)"/>
-<circle cx="500" cy="185" r="54" fill="#171c27" stroke="#f06a78" stroke-width="2"/>
+<circle cx="500" cy="185" r="54" fill="url(#core)" stroke="#f06a78" stroke-width="2"/>
 <circle cx="500" cy="185" r="45" fill="none" stroke="#f06a78" stroke-opacity=".4" stroke-dasharray="3 6"/>
-<text x="500" y="179" text-anchor="middle" fill="#fff0f1" font-size="18" font-weight="800">MY TECH</text>
-<text x="500" y="200" class="tiny">UNIVERSE</text>
+<text x="500" y="179" text-anchor="middle" fill="#fff0f1" font-size="17" font-weight="800">MY TECH</text>
+<text x="500" y="200" fill="#d6a3a9" font-size="10" letter-spacing="2" text-anchor="middle">UNIVERSE</text>
+
+<!-- Inner orbit: React and Next.js -->
 <g class="spin1">
- <g transform="translate(655 185)"><circle class="node" r="29"/><text class="label" y="5">React</text></g>
- <g transform="translate(345 185)"><circle class="node" r="29"/><text class="label" y="5">Next.js</text></g>
+ <g transform="translate(655 185)"><circle class="node" r="35"/><g class="counter1">
+  <g fill="none" stroke="#61dafb" stroke-width="2"><ellipse rx="18" ry="7"/><ellipse rx="18" ry="7" transform="rotate(60)"/><ellipse rx="18" ry="7" transform="rotate(120)"/><circle r="2.5" fill="#61dafb" stroke="none"/></g>
+  <text class="label" y="27">REACT</text>
+ </g></g>
+ <g transform="translate(345 185)"><circle class="node" r="35"/><g class="counter1"><text class="mark" y="7">N</text><text class="label" y="27">NEXT.JS</text></g></g>
 </g>
+
+<!-- Middle orbit: TypeScript, JavaScript, Redux, Tailwind -->
 <g class="spin2">
- <g transform="translate(500 85)"><circle class="node" r="28"/><text class="label" y="5">TypeScript</text></g>
- <g transform="translate(500 285)"><circle class="node" r="28"/><text class="label" y="5">JavaScript</text></g>
- <g transform="translate(265 185)"><circle class="node" r="26"/><text class="label" y="5">Redux</text></g>
- <g transform="translate(735 185)"><circle class="node" r="26"/><text class="label" y="5">Tailwind</text></g>
+ <g transform="translate(500 85)"><circle class="node" r="34"/><g class="counter2"><rect x="-18" y="-18" width="36" height="27" rx="3" fill="#3178c6"/><text x="0" y="2" text-anchor="middle" font-size="17" font-weight="800" fill="#fff">TS</text><text class="label" y="25">TYPESCRIPT</text></g></g>
+ <g transform="translate(500 285)"><circle class="node" r="34"/><g class="counter2"><rect x="-18" y="-18" width="36" height="27" rx="3" fill="#f0db4f"/><text x="0" y="2" text-anchor="middle" font-size="17" font-weight="800" fill="#242424">JS</text><text class="label" y="25">JAVASCRIPT</text></g></g>
+ <g transform="translate(265 185)"><circle class="node" r="34"/><g class="counter2"><text class="mark" y="6" fill="#764abc">R</text><text class="label" y="25">REDUX</text></g></g>
+ <g transform="translate(735 185)"><circle class="node" r="34"/><g class="counter2"><path d="M-20 -4 Q-9 -18 0 -4 Q9 10 20 -4 M-20 5 Q-9 -9 0 5 Q9 19 20 5" fill="none" stroke="#38bdf8" stroke-width="4" stroke-linecap="round"/><text class="label" y="25">TAILWIND</text></g></g>
 </g>
+
+<!-- Outer orbit: HTML, CSS, Git, GitHub, MUI, Bootstrap -->
 <g class="spin3">
- <g transform="translate(500 34)"><circle class="node" r="24"/><text class="label" y="5">HTML</text></g>
- <g transform="translate(500 336)"><circle class="node" r="24"/><text class="label" y="5">CSS</text></g>
- <g transform="translate(128 185)"><circle class="node" r="25"/><text class="label" y="5">Git</text></g>
- <g transform="translate(872 185)"><circle class="node" r="25"/><text class="label" y="5">GitHub</text></g>
- <g transform="translate(225 85)"><circle class="node" r="25"/><text class="label" y="5">MUI</text></g>
- <g transform="translate(775 285)"><circle class="node" r="25"/><text class="label" y="5">Bootstrap</text></g>
+ <g transform="translate(500 34)"><circle class="node" r="31"/><g class="counter3"><path d="M-15 -16H15L12 14L0 20L-12 14Z" fill="#e44d26"/><text x="0" y="8" text-anchor="middle" font-size="19" font-weight="800" fill="#fff">5</text><text class="label" y="25">HTML</text></g></g>
+ <g transform="translate(500 336)"><circle class="node" r="31"/><g class="counter3"><path d="M-15 -16H15L12 14L0 20L-12 14Z" fill="#1572b6"/><text x="0" y="8" text-anchor="middle" font-size="19" font-weight="800" fill="#fff">3</text><text class="label" y="25">CSS</text></g></g>
+ <g transform="translate(128 185)"><circle class="node" r="31"/><g class="counter3"><path d="M0 -18L17 0L0 18L-17 0Z" fill="#f34f29"/><path d="M-7 -7L0 0L8 -8M0 0V10" fill="none" stroke="#fff" stroke-width="2.5"/><text class="label" y="25">GIT</text></g></g>
+ <g transform="translate(872 185)"><circle class="node" r="31"/><g class="counter3"><path d="M0 -18C-10 -18 -16 -10 -16 0C-16 10 -10 16 0 16C10 16 16 10 16 0C16 -10 10 -18 0 -18Z" fill="#f4e9eb"/><text x="0" y="6" text-anchor="middle" font-size="17" font-weight="800" fill="#171c27">GH</text><text class="label" y="25">GITHUB</text></g></g>
+ <g transform="translate(225 85)"><circle class="node" r="31"/><g class="counter3"><text class="mark" y="7" fill="#29b6f6">M</text><text class="label" y="25">MUI</text></g></g>
+ <g transform="translate(775 285)"><circle class="node" r="31"/><g class="counter3"><circle r="18" fill="#6610f2"/><text x="0" y="7" text-anchor="middle" font-size="22" font-weight="800" fill="#fff">B</text><text class="label" y="25">BOOTSTRAP</text></g></g>
 </g>
-<rect x="110" y="365" width="780" height="48" rx="12" fill="#11151c" stroke="#69404a"/>
-<text x="500" y="384" class="tiny">LANGUAGES &amp; FRAMEWORKS</text>
-<text x="500" y="402" text-anchor="middle" fill="#f4e9eb" font-size="12">HTML  •  CSS  •  JavaScript  •  TypeScript  •  React  •  Next.js  •  Tailwind  •  Redux</text>
+
+<rect x="110" y="378" width="780" height="42" rx="12" fill="#11151c" stroke="#69404a"/>
+<text x="500" y="395" fill="#d6a3a9" font-size="10" letter-spacing="2" text-anchor="middle">LANGUAGES &amp; FRAMEWORKS</text>
+<text x="500" y="411" text-anchor="middle" fill="#f4e9eb" font-size="12">HTML  •  CSS  •  JavaScript  •  TypeScript  •  React  •  Next.js  •  Tailwind  •  Redux</text>
 </svg>
