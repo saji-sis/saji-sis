@@ -1,212 +1,76 @@
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=header&text=Hi%20I'm%20Sajad%20Sistani&fontColor=FFFFFF&fontSize=40&fontAlignY=40&fontWeight=600" width="100%" />
-</p>
+<div align="center">
 
-<h2 align="center">🚀 Frontend Developer | React.js | Next.js | TypeScript</h2>
+  <img src="./assets/sajad_sistani.gif" width="100%" alt="Sajad Sistani — Animated Developer Workspace" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=764BA2&center=true&vCenter=true&width=650&lines=Frontend+Developer;React.js+%26+Next.js+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality" alt="Typing SVG" />
-</p>
+  <img src="./assets/header.svg" width="100%" alt="Sajad Sistani — Frontend Developer" />
 
-<h2 align="center">👨‍💻 ABOUT ME</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=800&color=F06A70&center=true&vCenter=true&width=720&height=42&lines=Frontend+Developer;React.js+%2F+Next.js+%2F+TypeScript;Building+clean+and+useful+web+experiences" alt="Frontend developer typing animation" />
 
-<p align="center">
-  I'm a Frontend Developer passionate about building modern, responsive, and user-friendly web applications.
-</p>
+  <p>
+    <a href="https://github.com/saji-sis"><img src="https://img.shields.io/badge/GitHub-saji--sis-17151A?style=for-the-badge&logo=github&logoColor=F06A70" alt="GitHub profile" /></a>
+    <a href="https://github.com/saji-sis?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Repositories-17151A?style=for-the-badge&logo=git&logoColor=D9A0A0" alt="Repositories" /></a>
+  </p>
 
-<p align="center">
-  My main focus is developing scalable frontend applications using <b>React.js, Next.js, and TypeScript</b>. I enjoy transforming ideas and designs into functional products with clean code, reusable components, and maintainable architecture.
-</p>
+</div>
 
-<p align="center">
-  I have hands-on experience working on real-world projects, including business management systems, e-commerce platforms, admin dashboards, and API-driven applications.
-</p>
+---
 
-<table>
-<tr>
-<td>💻 <b>Specialized in</b></td>
-<td>React.js, Next.js & TypeScript</td>
-</tr>
-<tr>
-<td>🎨 <b>Interested in</b></td>
-<td>UI/UX & Responsive Web Design</td>
-</tr>
-<tr>
-<td>⚡ <b>Development</b></td>
-<td>Reusable Components & Clean Code</td>
-</tr>
-<tr>
-<td>🔗 <b>Integration</b></td>
-<td>REST APIs & Data Management</td>
-</tr>
-<tr>
-<td>🧩 <b>Architecture</b></td>
-<td>Scalable Frontend Architecture</td>
-</tr>
-<tr>
-<td>🚀 <b>Mindset</b></td>
-<td>Continuous Learning & Improvement</td>
-</tr>
-</table>
+## ✦ About me
 
-<h2 align="center">🛠️ TECH STACK & SKILLS</h2>
+<img align="right" width="34%" src="./assets/about.svg" alt="About me illustration" />
 
-<h3 align="center">💻 Programming Languages</h3>
+- 👋 Hi, I'm **Sajad Sistani**.
+- 💻 Frontend Developer focused on **React.js, Next.js, and TypeScript**.
+- 🎨 I enjoy building responsive interfaces with thoughtful details and clean architecture.
+- 🚀 Always learning, experimenting, and turning ideas into useful products.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-</p>
+<br clear="right" />
 
-<h3 align="center">⚛️ Frontend Development</h3>
+## ✦ My tech galaxy
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux" />
-</p>
-
-<h3 align="center">🎨 UI Libraries & Styling</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive_Design-2F80ED?style=for-the-badge" />
-</p>
-
-<h3 align="center">🔧 Tools & Technologies</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,figma" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Fetch_API-333333?style=for-the-badge" />
-</p>
-
-<h2 align="center">🚀 FEATURED PROJECTS</h2>
-
-<h3>🚛 TowingTask</h3>
-
-<p>
-  A multi-company towing and vehicle transportation management system.
-</p>
-
-Modern admin dashboard
-
-Job and driver management
-
-Customer management
-
-API integration
-
-Driver operations and job tracking
-
-Tech Stack:
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
-</p>
-
-🔗 View Repository
-
-<h3>👜 Nafis Leather</h3>
-
-<p>
-  An e-commerce platform with a modern shopping experience and administration panel.
-</p>
-
-Product management
-
-Shopping and checkout workflows
-
-Admin dashboard
-
-API integration
-
-Persian RTL interface
-
-Tech Stack:
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,css" />
-</p>
-
-🔗 View Repository
-
-<h3>💱 Fasihi Exchange</h3>
-
-<p>
-  A currency exchange management application.
-</p>
-
-Currency management
-
-Transactions and orders
-
-Branch management
-
-Authentication and role-based access
-
-Admin dashboard
-
-Tech Stack:
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
-</p>
-
-🔗 View Repository
-
-<h2 align="center">📊 GITHUB STATISTICS</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saji-sis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saji-sis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=saji-sis&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<h2 align="center">🎯 CURRENTLY FOCUSED ON</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React_&_Next.js-Advanced-61DAFB?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-Best_Practices-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-Architecture-764BA2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Performance-Optimization-DC2626?style=flat-square" />
-</p>
-
-Advanced React & Next.js Development
-
-TypeScript Best Practices
-
-Scalable Frontend Architecture
-
-Performance Optimization
-
-Modern UI/UX Development
-
-Building Real-World Applications
-
-<h2 align="center">🤝 LET'S CONNECT</h2>
-
-<p align="center">
-  <a href="https://github.com/saji-sis">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <b>⭐ Thanks for visiting my profile!</b>
+<div align="center">
+  <img src="./assets/galaxy.svg" width="100%" alt="My frontend technologies orbiting in a galaxy" />
   <br />
-  <i>"Great things are built one line of code at a time."</i>
-</p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui,redux,git,github,npm&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Bootstrap, Material UI, Redux, Git, GitHub and npm icons" />
+</div>
 
-<p align="center">   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%" /> </p>
+## ✦ Selected projects
+
+<div align="center">
+  <img src="./assets/projects.svg" width="100%" alt="Selected projects" />
+</div>
+
+| Project | Description |
+|:--|:--|
+| **TowingTask** | Multi-company towing, vehicle transport, and operations management platform. |
+| **Nafis Leather** | E-commerce experience for a leather goods brand. |
+| **Fasihi Exchange** | Currency-exchange web application and user experience. |
+
+## ✦ GitHub activity
+
+<div align="center">
+
+  <img src="https://github-stats-extended.vercel.app/api?username=saji-sis&show_icons=true&hide_border=true&bg_color=11151c&title_color=F06A70&icon_color=D9A0A0&text_color=E8E8E8&ring_color=F06A70" height="165" alt="GitHub statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saji-sis&layout=compact&hide_border=true&bg_color=11151c&title_color=F06A70&text_color=E8E8E8" height="165" alt="Most used programming languages" />
+
+  <br />
+
+  <img src="https://streak-stats.demolab.com?user=saji-sis&hide_border=true&background=11151c&ring=F06A70&fire=F06A70&currStreakLabel=F06A70&currStreakNum=F3F5F7&sideNums=F3F5F7&sideLabels=AAB5C0&dates=8293A1" width="82%" alt="GitHub contribution streak" />
+
+  <br />
+
+  <img src="https://raw.githubusercontent.com/saji-sis/saji-sis/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
+
+</div>
+
+## ✦ Let's connect
+
+<div align="center">
+
+  <a href="https://github.com/saji-sis"><img src="https://img.shields.io/badge/Visit_my_GitHub-17151A?style=for-the-badge&logo=github&logoColor=F06A70" alt="Visit my GitHub" /></a>
+
+  <img src="./assets/footer.svg" width="100%" alt="Make it useful. Make it memorable." />
+
+  <sub>Thanks for stopping by! ✨</sub>
+
+</div>
