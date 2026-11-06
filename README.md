@@ -17,14 +17,9 @@
 
 ## ✦ About me
 
-<img align="right" width="34%" src="./assets/about.svg" alt="About me illustration" />
+<img align="right" width="100%" src="./assets/about.svg" alt="About me illustration" />
 
-- 👋 Hi, I'm **Sajad Sistani**.
-- 💻 Frontend Developer focused on **React.js, Next.js, and TypeScript**.
-- 🎨 I enjoy building responsive interfaces with thoughtful details and clean architecture.
-- 🚀 Always learning, experimenting, and turning ideas into useful products.
 
-<br clear="right" />
 
 ## ✦ My tech galaxy
 
