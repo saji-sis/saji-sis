@@ -27,7 +27,7 @@
   <br />
   <img src="./assets/frontend-galaxy-logos.svg" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Bootstrap, Material UI, Redux, Git, GitHub and npm icons" />
 </div>
-
+<br/>
 ---
 
 ## ✦ Selected projects
@@ -35,8 +35,6 @@
 <div align="center">
   <img src="./assets/projects.svg" width="100%" alt="Selected projects" />
 </div>
-
----
 
 ## ✦ GitHub activity
 
@@ -54,10 +52,10 @@
 
 <div align="center">
 
-  <a href="https://github.com/saji-sis"><img src="https://img.shields.io/badge/Visit_my_GitHub-17151A?style=for-the-badge&logo=github&logoColor=F06A70" alt="Visit my GitHub" /></a>
+<a href="https://github.com/saji-sis"><img src="https://img.shields.io/badge/Visit_my_GitHub-17151A?style=for-the-badge&logo=github&logoColor=F06A70" alt="Visit my GitHub" /></a>
 
   <img src="./assets/footer.svg" width="100%" alt="Make it useful. Make it memorable." />
 
-  <sub>Thanks for stopping by! ✨</sub>
+<sub>Thanks for stopping by! ✨</sub>
 
 </div>
