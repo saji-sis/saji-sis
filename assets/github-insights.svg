@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="294" viewBox="0 0 800 294" role="img" aria-label="GitHub insights for saji-sis">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0D1117"/>
+    <stop offset="1" stop-color="#17232E"/>
+  </linearGradient>
+  <clipPath id="bar"><rect x="28" y="182" width="744" height="12" rx="6"/></clipPath>
+  <style>
+    .t{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:14px}
+    .lbl{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:10px;letter-spacing:1.5px}
+    .big{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif;font-weight:800;font-size:34px}
+    .card{opacity:0;animation:fade .55s ease forwards}
+    .grow{transform-origin:left center;animation:grow .9s ease .55s both}
+    @keyframes fade{to{opacity:1}}
+    @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    @media(prefers-reduced-motion:reduce){.card,.grow{animation:none!important;opacity:1!important;transform:none!important}}
+  </style>
+</defs>
+<rect x="1" y="1" width="798" height="292" rx="16" fill="url(#bg)" stroke="#30363D"/>
+
+  <g class="card" style="animation-delay:0.00s">
+    <rect x="28" y="28" width="175.5" height="92" rx="12" fill="#18212A" stroke="#3A414A"/>
+    <rect x="44" y="28" width="36" height="3" rx="1.5" fill="#F06A78"/>
+    <text x="44" y="80" class="big" fill="#FFFFFF">3</text>
+    <text x="44" y="102" class="lbl" fill="#9AA4B2">PUBLIC REPOSITORIES</text>
+  </g>
+  <g class="card" style="animation-delay:0.12s">
+    <rect x="217.5" y="28" width="175.5" height="92" rx="12" fill="#18212A" stroke="#3A414A"/>
+    <rect x="233.5" y="28" width="36" height="3" rx="1.5" fill="#F06A78"/>
+    <text x="233.5" y="80" class="big" fill="#FFFFFF">6</text>
+    <text x="233.5" y="102" class="lbl" fill="#9AA4B2">STARS EARNED</text>
+  </g>
+  <g class="card" style="animation-delay:0.24s">
+    <rect x="407" y="28" width="175.5" height="92" rx="12" fill="#18212A" stroke="#3A414A"/>
+    <rect x="423" y="28" width="36" height="3" rx="1.5" fill="#F06A78"/>
+    <text x="423" y="80" class="big" fill="#FFFFFF">3</text>
+    <text x="423" y="102" class="lbl" fill="#9AA4B2">FOLLOWERS</text>
+  </g>
+  <g class="card" style="animation-delay:0.36s">
+    <rect x="596.5" y="28" width="175.5" height="92" rx="12" fill="#18212A" stroke="#3A414A"/>
+    <rect x="612.5" y="28" width="36" height="3" rx="1.5" fill="#F06A78"/>
+    <text x="612.5" y="80" class="big" fill="#FFFFFF">2023</text>
+    <text x="612.5" y="102" class="lbl" fill="#9AA4B2">ON GITHUB SINCE</text>
+  </g>
+<text x="28" y="166" class="t"><tspan fill="#F06A78">//</tspan> <tspan fill="#9AA4B2">languages</tspan></text>
+<rect x="28" y="182" width="744" height="12" rx="6" fill="#161B22"/>
+<g clip-path="url(#bar)" class="grow"><rect x="28.00" y="182" width="522.44" height="12" fill="#F0DB4F"/><rect x="550.44" y="182" width="221.56" height="12" fill="#1572B6"/></g>
+
+  <circle cx="34" cy="222" r="5" fill="#F0DB4F"/>
+  <text x="48" y="227" class="t" fill="#E6EDF3">JavaScript<tspan fill="#9AA4B2" dx="8">70.2%</tspan></text>
+  <circle cx="282" cy="222" r="5" fill="#1572B6"/>
+  <text x="296" y="227" class="t" fill="#E6EDF3">CSS<tspan fill="#9AA4B2" dx="8">29.8%</tspan></text>
+
+<text x="772" y="278" text-anchor="end" font-family="Consolas,monospace" font-size="9" fill="#66717E">UPDATED AUTOMATICALLY VIA GITHUB ACTIONS</text>
+</svg>
