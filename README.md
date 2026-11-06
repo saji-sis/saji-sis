@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./sajad_sistani.gif" width="100%" alt="Sajad Sistani — Animated Developer Workspace" />
+  <img src="./Neon GitHub Workspace Animation.gif" width="100%" alt="Sajad Sistani — Animated Developer Workspace" />
 
   <img src="./assets/header.svg" width="100%" alt="Sajad Sistani — Frontend Developer" />
 
