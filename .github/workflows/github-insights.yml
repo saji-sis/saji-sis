@@ -1,9 +1,14 @@
-name: Generate GitHub Insights
+name: Update GitHub Insights
 
 on:
   schedule:
-    - cron: "0 3 * * *"      # هر روز ساعت ۳ صبح UTC
-  workflow_dispatch:          # امکان اجرای دستی
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate-github-insights.mjs"
+      - ".github/workflows/github-insights.yml"
 
 permissions:
   contents: write
@@ -11,19 +16,22 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    name: generate-github-profile-summary-cards
-
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate profile summary cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: "main"          # کارت‌ها داخل شاخه main ساخته می‌شن
-          THEME: "github_dark"
-          UTC_OFFSET: "3.5"            # برای ایران
-          AUTO_PUSH: true
+          node-version: 20
+
+      - name: Generate insights SVG
+        run: node scripts/generate-github-insights.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated insights
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update GitHub insights"
+          file_pattern: assets/github-insights.svg

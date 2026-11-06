@@ -45,12 +45,7 @@
 
 <div align="center">
 
-  <img src="https://github-stats-extended.vercel.app/api?username=saji-sis&show_icons=true&hide_border=true&bg_color=11151c&title_color=F06A70&icon_color=D9A0A0&text_color=E8E8E8&ring_color=F06A70" height="165" alt="GitHub statistics" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saji-sis&layout=compact&hide_border=true&bg_color=11151c&title_color=F06A70&text_color=E8E8E8" height="165" alt="Most used programming languages" />
-
-  <br />
-
-  <img src="https://streak-stats.demolab.com?user=saji-sis&hide_border=true&background=11151c&ring=F06A70&fire=F06A70&currStreakLabel=F06A70&currStreakNum=F3F5F7&sideNums=F3F5F7&sideLabels=AAB5C0&dates=8293A1" width="82%" alt="GitHub contribution streak" />
+  <img src="./assets/github-insights.svg" width="100%" alt="GitHub insights — repositories, stars, followers and language distribution" />
 
   <br />
 
