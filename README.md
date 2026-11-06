@@ -24,7 +24,6 @@
 ## ✦ My tech galaxy
 
 <div align="center">
-  <img src="./assets/galaxy.svg" width="100%" alt="My frontend technologies orbiting in a galaxy" />
   <br />
   <img src="./assets/frontend-galaxy-logos.svg" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Bootstrap, Material UI, Redux, Git, GitHub and npm icons" />
 </div>
