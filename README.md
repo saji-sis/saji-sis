@@ -26,7 +26,7 @@
 <div align="center">
   <img src="./assets/galaxy.svg" width="100%" alt="My frontend technologies orbiting in a galaxy" />
   <br />
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui,redux,git,github,npm&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Bootstrap, Material UI, Redux, Git, GitHub and npm icons" />
+  <img src="./assets/frontend-galaxy-logos.svg" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Bootstrap, Material UI, Redux, Git, GitHub and npm icons" />
 </div>
 
 ## ✦ Selected projects
