@@ -1,1 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="About Sajjad"><style>text{font-family:ui-monospace,monospace}</style><rect x="1" y="1" width="998" height="278" rx="10" fill="#11151c" stroke="#493238"/><rect x="24" y="24" width="5" height="232" rx="2" fill="#EF343F"/><text x="54" y="60" font-size="12" fill="#EF343F" letter-spacing="2">A LITTLE ABOUT MY WORK</text><text x="54" y="111" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#f3f5f7">Thoughtful by design.</text><text x="54" y="151" font-size="14" fill="#aab5c0">I build modern, responsive web experiences</text><text x="54" y="176" font-size="14" fill="#aab5c0">with React, Next.js, and TypeScript. I enjoy</text><text x="54" y="201" font-size="14" fill="#aab5c0">clean components, considered details, and</text><text x="54" y="226" font-size="14" fill="#aab5c0">interfaces that are useful and maintainable.</text><g transform="translate(690 48)"><rect width="260" height="184" rx="8" fill="#1b2029" stroke="#493238"/><text x="20" y="31" font-size="11" fill="#8293a1">MY PRINCIPLES</text><path d="M20 44H240" stroke="#493238"/><g font-size="13" fill="#f3f5f7"><text x="20" y="77"><tspan fill="#EF343F">01</tspan>  Useful over flashy</text><text x="20" y="111"><tspan fill="#EF343F">02</tspan>  Consistency over noise</text><text x="20" y="145"><tspan fill="#EF343F">03</tspan>  Details matter</text></g><circle cx="231" cy="163" r="4" fill="#EF343F"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="390" viewBox="0 0 1000 390" role="img" aria-label="About Sajad displayed as a Visual Studio Code editor">
+<defs>
+ <linearGradient id="editor" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#171b24"/><stop offset="1" stop-color="#11151c"/></linearGradient>
+</defs>
+<style>
+ text{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}
+ .muted{fill:#748091}.line{fill:#aeb9c8;font-size:14px}.num{fill:#596575;font-size:12px;text-anchor:end}
+ .key{fill:#82aaff}.str{fill:#c3e88d}.punct{fill:#d7dae0}.comment{fill:#718096;font-style:italic}
+ .accent{fill:#f06a78}.tab{fill:#d8dee9;font-size:12px}
+</style>
+<rect x="1" y="1" width="998" height="388" rx="12" fill="url(#editor)" stroke="#3c4654"/>
+<!-- title bar -->
+<path d="M1 13Q1 1 13 1H987Q999 1 999 13V43H1Z" fill="#202631"/>
+<circle cx="22" cy="22" r="5" fill="#ff5f57"/><circle cx="42" cy="22" r="5" fill="#febc2e"/><circle cx="62" cy="22" r="5" fill="#28c840"/>
+<text x="500" y="26" text-anchor="middle" font-size="11" fill="#aab5c0">sajad-sistani — Visual Studio Code</text>
+<!-- activity bar -->
+<rect x="1" y="43" width="54" height="314" fill="#151a22"/>
+<path d="M27 65V87M16 76H38" stroke="#aab5c0" stroke-width="2" opacity=".8"/>
+<rect x="16" y="112" width="22" height="22" rx="3" fill="none" stroke="#758195" stroke-width="1.5"/>
+<path d="M20 118L27 125L34 118M20 129H34" stroke="#758195" fill="none" stroke-width="1.5"/>
+<circle cx="27" cy="164" r="10" fill="none" stroke="#758195" stroke-width="1.5"/>
+<path d="M20 164H34M27 157V171" stroke="#758195"/>
+<path d="M17 204L27 194L37 204L27 214Z" fill="none" stroke="#758195" stroke-width="1.5"/>
+<path d="M17 248H37V268H17Z" fill="none" stroke="#758195" stroke-width="1.5"/>
+<!-- explorer -->
+<rect x="55" y="43" width="210" height="314" fill="#191e27"/>
+<text x="74" y="69" font-size="11" fill="#aab5c0" letter-spacing="1">EXPLORER</text>
+<text x="74" y="96" font-size="12" fill="#d8dee9">⌄  SAJAD-SISTANI</text>
+<text x="91" y="125" font-size="12" fill="#c3e88d">◇  about.ts</text>
+<text x="91" y="153" font-size="12" fill="#aab5c0">◇  skills.ts</text>
+<text x="91" y="181" font-size="12" fill="#aab5c0">◇  projects.ts</text>
+<text x="91" y="209" font-size="12" fill="#aab5c0">◇  contact.ts</text>
+<path d="M55 226H265" stroke="#303947"/>
+<text x="74" y="253" font-size="10" fill="#748091">OUTLINE</text>
+<text x="88" y="278" font-size="11" fill="#aab5c0">▸ Developer</text>
+<text x="88" y="302" font-size="11" fill="#aab5c0">▸ Focus</text>
+<text x="88" y="326" font-size="11" fill="#aab5c0">▸ Philosophy</text>
+<!-- editor tabs -->
+<rect x="265" y="43" width="735" height="34" fill="#191e27"/>
+<rect x="265" y="43" width="135" height="34" fill="#11151c"/>
+<path d="M265 76H400" stroke="#f06a78" stroke-width="2"/>
+<text x="284" y="65" class="tab"><tspan fill="#82aaff">TS</tspan>  about.ts</text>
+<text x="420" y="65" font-size="11" fill="#748091">skills.ts</text>
+<text x="525" y="65" font-size="11" fill="#748091">projects.ts</text>
+<text x="960" y="65" font-size="10" fill="#748091" text-anchor="end">TypeScript</text>
+<!-- code area -->
+<rect x="265" y="77" width="735" height="280" fill="#11151c"/>
+<g class="num">
+ <text x="300" y="111">1</text><text x="300" y="139">2</text><text x="300" y="167">3</text><text x="300" y="195">4</text><text x="300" y="223">5</text><text x="300" y="251">6</text><text x="300" y="279">7</text><text x="300" y="307">8</text><text x="300" y="335">9</text>
+</g>
+<g class="line">
+ <text x="326" y="111"><tspan class="comment">// A little about the developer behind the code</tspan></text>
+ <text x="326" y="139"><tspan class="key">const</tspan><tspan class="punct"> developer = {</tspan></text>
+ <text x="350" y="167"><tspan class="key">name:</tspan><tspan class="str"> "Sajad Sistani"</tspan><tspan class="punct">,</tspan></text>
+ <text x="350" y="195"><tspan class="key">role:</tspan><tspan class="str"> "Frontend Developer"</tspan><tspan class="punct">,</tspan></text>
+ <text x="350" y="223"><tspan class="key">stack:</tspan><tspan class="punct"> [</tspan><tspan class="str">"React"</tspan><tspan class="punct">, </tspan><tspan class="str">"Next.js"</tspan><tspan class="punct">, </tspan><tspan class="str">"TypeScript"</tspan><tspan class="punct">],</tspan></text>
+ <text x="350" y="251"><tspan class="key">focus:</tspan><tspan class="str"> "Clean UI &amp; reusable components"</tspan><tspan class="punct">,</tspan></text>
+ <text x="350" y="279"><tspan class="key">mindset:</tspan><tspan class="str"> "Keep learning. Keep building."</tspan></text>
+ <text x="326" y="307"><tspan class="punct">};</tspan></text>
+ <text x="326" y="335"><tspan class="comment">// Turning ideas into useful digital experiences.</tspan></text>
+</g>
+<!-- status bar -->
+<rect x="1" y="357" width="998" height="32" rx="0" fill="#a93243"/>
+<text x="18" y="378" font-size="10" fill="#fff">⎇ main</text>
+<text x="105" y="378" font-size="10" fill="#fff">✓ Ready to build</text>
+<text x="980" y="378" font-size="10" fill="#fff" text-anchor="end">UTF-8   TypeScript   Ln 1, Col 1</text>
+</svg>
