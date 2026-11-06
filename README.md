@@ -25,7 +25,7 @@
 
 <div align="center">
   <br />
-  <img src="./assets/frontend-galaxy-logos2.svg" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Bootstrap, Material UI, Redux, Git, GitHub and npm icons" />
+  <img src="./assets/frontend-galaxy-logos-2.svg" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Bootstrap, Material UI, Redux, Git, GitHub and npm icons" />
 </div>
 <br/>
 ---
