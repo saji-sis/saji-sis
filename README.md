@@ -19,7 +19,7 @@
 
 <img align="right" width="100%" src="./assets/about.svg" alt="About me illustration" />
 
-
+---
 
 ## ✦ My tech galaxy
 
@@ -28,17 +28,15 @@
   <img src="./assets/frontend-galaxy-logos.svg" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Bootstrap, Material UI, Redux, Git, GitHub and npm icons" />
 </div>
 
+---
+
 ## ✦ Selected projects
 
 <div align="center">
   <img src="./assets/projects.svg" width="100%" alt="Selected projects" />
 </div>
 
-| Project | Description |
-|:--|:--|
-| **TowingTask** | Multi-company towing, vehicle transport, and operations management platform. |
-| **Nafis Leather** | E-commerce experience for a leather goods brand. |
-| **Fasihi Exchange** | Currency-exchange web application and user experience. |
+---
 
 ## ✦ GitHub activity
 
