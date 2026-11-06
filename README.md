@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/sajad-sistani-workspace.jpg" width="100%" alt="Sajad Sistani — Developer Workspace" />
+  <img src="./sajad_sistani.gif" width="100%" alt="Sajad Sistani — Animated Developer Workspace" />
 
   <img src="./assets/header.svg" width="100%" alt="Sajad Sistani — Frontend Developer" />
 
@@ -26,23 +26,10 @@
 
 <br clear="right" />
 
-## ✦ Tech stack
+## ✦ My tech galaxy
 
 <div align="center">
-
-  <h3>Core</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" alt="HTML, CSS, JavaScript, TypeScript, React and Next.js" />
-
-  <h3>UI & State</h3>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,redux,figma" alt="Tailwind CSS, Bootstrap, Material UI, Redux and Figma" />
-
-  <h3>Tools</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode" alt="Git, GitHub, npm and VS Code" />
-
-</div>
-
-<div align="center">
-  <img src="./assets/stack.svg" width="100%" alt="Technology stack design" />
+  <img src="./assets/galaxy.svg" width="100%" alt="My frontend technologies orbiting in a galaxy" />
 </div>
 
 ## ✦ Selected projects
@@ -70,7 +57,7 @@
 
   <br />
 
-  <img src="https://raw.githubusercontent.com/saji-sis/saji-sis/output/github-snake-dark.svg" width="100%" alt="GitHub contribution activity" />
+  <img src="https://raw.githubusercontent.com/saji-sis/saji-sis/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
 
 </div>
 
