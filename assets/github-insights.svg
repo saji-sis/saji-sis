@@ -21,7 +21,7 @@
   <g class="card" style="animation-delay:0.00s">
     <rect x="28" y="28" width="175.5" height="92" rx="12" fill="#18212A" stroke="#3A414A"/>
     <rect x="44" y="28" width="36" height="3" rx="1.5" fill="#F06A78"/>
-    <text x="44" y="80" class="big" fill="#FFFFFF">3</text>
+    <text x="44" y="80" class="big" fill="#FFFFFF">2</text>
     <text x="44" y="102" class="lbl" fill="#9AA4B2">PUBLIC REPOSITORIES</text>
   </g>
   <g class="card" style="animation-delay:0.12s">
