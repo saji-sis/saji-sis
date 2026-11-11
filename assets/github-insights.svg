@@ -44,12 +44,14 @@
   </g>
 <text x="28" y="166" class="t"><tspan fill="#F06A78">//</tspan> <tspan fill="#9AA4B2">languages</tspan></text>
 <rect x="28" y="182" width="744" height="12" rx="6" fill="#161B22"/>
-<g clip-path="url(#bar)" class="grow"><rect x="28.00" y="182" width="522.44" height="12" fill="#F0DB4F"/><rect x="550.44" y="182" width="221.56" height="12" fill="#1572B6"/></g>
+<g clip-path="url(#bar)" class="grow"><rect x="28.00" y="182" width="468.28" height="12" fill="#F0DB4F"/><rect x="496.28" y="182" width="198.60" height="12" fill="#1572B6"/><rect x="694.87" y="182" width="77.13" height="12" fill="#E44D26"/></g>
 
   <circle cx="34" cy="222" r="5" fill="#F0DB4F"/>
-  <text x="48" y="227" class="t" fill="#E6EDF3">JavaScript<tspan fill="#9AA4B2" dx="8">70.2%</tspan></text>
+  <text x="48" y="227" class="t" fill="#E6EDF3">JavaScript<tspan fill="#9AA4B2" dx="8">62.9%</tspan></text>
   <circle cx="282" cy="222" r="5" fill="#1572B6"/>
-  <text x="296" y="227" class="t" fill="#E6EDF3">CSS<tspan fill="#9AA4B2" dx="8">29.8%</tspan></text>
+  <text x="296" y="227" class="t" fill="#E6EDF3">CSS<tspan fill="#9AA4B2" dx="8">26.7%</tspan></text>
+  <circle cx="530" cy="222" r="5" fill="#E44D26"/>
+  <text x="544" y="227" class="t" fill="#E6EDF3">HTML<tspan fill="#9AA4B2" dx="8">10.4%</tspan></text>
 
 <text x="772" y="278" text-anchor="end" font-family="Consolas,monospace" font-size="9" fill="#66717E">UPDATED AUTOMATICALLY VIA GITHUB ACTIONS</text>
 </svg>
